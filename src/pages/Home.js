@@ -1,7 +1,7 @@
 import React from "react";
 
 function home(){
-    return <h1>홈화면입니다.</h1>
+    return <h1>홈화면입니다.2</h1>
 }
 
 export default home;
